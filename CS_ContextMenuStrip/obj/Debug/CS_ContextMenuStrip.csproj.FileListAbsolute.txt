@@ -1,0 +1,8 @@
+C:\Users\jashliao\Desktop\CS_ContextMenuStrip\CS_ContextMenuStrip\bin\Debug\CS_ContextMenuStrip.exe
+C:\Users\jashliao\Desktop\CS_ContextMenuStrip\CS_ContextMenuStrip\bin\Debug\CS_ContextMenuStrip.pdb
+C:\Users\jashliao\Desktop\CS_ContextMenuStrip\CS_ContextMenuStrip\obj\Debug\CS_ContextMenuStrip.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\CS_ContextMenuStrip\CS_ContextMenuStrip\obj\Debug\CS_ContextMenuStrip.Form1.resources
+C:\Users\jashliao\Desktop\CS_ContextMenuStrip\CS_ContextMenuStrip\obj\Debug\CS_ContextMenuStrip.Properties.Resources.resources
+C:\Users\jashliao\Desktop\CS_ContextMenuStrip\CS_ContextMenuStrip\obj\Debug\CS_ContextMenuStrip.csproj.GenerateResource.Cache
+C:\Users\jashliao\Desktop\CS_ContextMenuStrip\CS_ContextMenuStrip\obj\Debug\CS_ContextMenuStrip.exe
+C:\Users\jashliao\Desktop\CS_ContextMenuStrip\CS_ContextMenuStrip\obj\Debug\CS_ContextMenuStrip.pdb
